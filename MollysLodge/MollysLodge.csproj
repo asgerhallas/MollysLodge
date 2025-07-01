@@ -3,6 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>latest</LangVersion>
+    <Description>A small IoC container you can derive from and use for test setup or application configuration.</Description>
   </PropertyGroup>
-
 </Project>
